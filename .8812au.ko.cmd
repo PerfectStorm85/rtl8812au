@@ -1,0 +1,1 @@
+cmd_/home/rock64/netgear/rtl8812au/8812au.ko := ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/rock64/netgear/rtl8812au/8812au.ko /home/rock64/netgear/rtl8812au/8812au.o /home/rock64/netgear/rtl8812au/8812au.mod.o
